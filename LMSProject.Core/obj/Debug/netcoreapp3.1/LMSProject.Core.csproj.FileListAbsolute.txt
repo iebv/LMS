@@ -1,0 +1,9 @@
+C:\Users\balivn01\source\repos\LMSProject\LMSProject.Core\bin\Debug\netcoreapp3.1\LMSProject.Core.deps.json
+C:\Users\balivn01\source\repos\LMSProject\LMSProject.Core\bin\Debug\netcoreapp3.1\LMSProject.Core.dll
+C:\Users\balivn01\source\repos\LMSProject\LMSProject.Core\bin\Debug\netcoreapp3.1\LMSProject.Core.pdb
+C:\Users\balivn01\source\repos\LMSProject\LMSProject.Core\obj\Debug\netcoreapp3.1\LMSProject.Core.csprojAssemblyReference.cache
+C:\Users\balivn01\source\repos\LMSProject\LMSProject.Core\obj\Debug\netcoreapp3.1\LMSProject.Core.AssemblyInfoInputs.cache
+C:\Users\balivn01\source\repos\LMSProject\LMSProject.Core\obj\Debug\netcoreapp3.1\LMSProject.Core.AssemblyInfo.cs
+C:\Users\balivn01\source\repos\LMSProject\LMSProject.Core\obj\Debug\netcoreapp3.1\LMSProject.Core.csproj.CoreCompileInputs.cache
+C:\Users\balivn01\source\repos\LMSProject\LMSProject.Core\obj\Debug\netcoreapp3.1\LMSProject.Core.dll
+C:\Users\balivn01\source\repos\LMSProject\LMSProject.Core\obj\Debug\netcoreapp3.1\LMSProject.Core.pdb

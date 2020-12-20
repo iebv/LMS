@@ -1,0 +1,15 @@
+C:\Users\balivn01\source\repos\LMSProject\LMSProject.Data\obj\Debug\netcoreapp3.1\LMSProject.Data.csprojAssemblyReference.cache
+C:\Users\balivn01\source\repos\LMSProject\LMSProject.Data\obj\Debug\netcoreapp3.1\LMSProject.Data.AssemblyInfoInputs.cache
+C:\Users\balivn01\source\repos\LMSProject\LMSProject.Data\obj\Debug\netcoreapp3.1\LMSProject.Data.AssemblyInfo.cs
+C:\Users\balivn01\source\repos\LMSProject\LMSProject.Data\obj\Debug\netcoreapp3.1\LMSProject.Data.csproj.CoreCompileInputs.cache
+C:\Users\balivn01\source\repos\LMSProject\LMSProject.Data\bin\Debug\netcoreapp3.1\LMSProject.Data.deps.json
+C:\Users\balivn01\source\repos\LMSProject\LMSProject.Data\bin\Debug\netcoreapp3.1\LMSProject.Data.runtimeconfig.json
+C:\Users\balivn01\source\repos\LMSProject\LMSProject.Data\bin\Debug\netcoreapp3.1\LMSProject.Data.runtimeconfig.dev.json
+C:\Users\balivn01\source\repos\LMSProject\LMSProject.Data\bin\Debug\netcoreapp3.1\LMSProject.Data.dll
+C:\Users\balivn01\source\repos\LMSProject\LMSProject.Data\bin\Debug\netcoreapp3.1\LMSProject.Data.pdb
+C:\Users\balivn01\source\repos\LMSProject\LMSProject.Data\bin\Debug\netcoreapp3.1\LMSProject.Core.dll
+C:\Users\balivn01\source\repos\LMSProject\LMSProject.Data\bin\Debug\netcoreapp3.1\LMSProject.Core.pdb
+C:\Users\balivn01\source\repos\LMSProject\LMSProject.Data\obj\Debug\netcoreapp3.1\LMSProject.Data.csproj.CopyComplete
+C:\Users\balivn01\source\repos\LMSProject\LMSProject.Data\obj\Debug\netcoreapp3.1\LMSProject.Data.dll
+C:\Users\balivn01\source\repos\LMSProject\LMSProject.Data\obj\Debug\netcoreapp3.1\LMSProject.Data.pdb
+C:\Users\balivn01\source\repos\LMSProject\LMSProject.Data\obj\Debug\netcoreapp3.1\LMSProject.Data.genruntimeconfig.cache
