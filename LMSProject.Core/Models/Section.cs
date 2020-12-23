@@ -1,10 +1,10 @@
 ﻿using System;
 
-namespace LMSProject.Core
+namespace LMSProject.Core.Models
 {
-    public class Section
+    public abstract class Section
     {
-        public int Id { get; set; }
+        public Guid Id { get; set; }
         public string Name { get; set; }
         public string Description { get; set; }
         public int Duration { get; set; }

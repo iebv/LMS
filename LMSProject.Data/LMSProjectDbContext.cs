@@ -1,4 +1,4 @@
-﻿using LMSProject.Core;
+﻿using LMSProject.Core.Models;
 using Microsoft.EntityFrameworkCore;
 using System;
 using System.Collections.Generic;
@@ -10,12 +10,15 @@ namespace LMSProject.Data
     {
         public LMSProjectDbContext(DbContextOptions<LMSProjectDbContext> options) 
             : base(options)
-        {
-            
+        {   
         }
-        public DbSet<Section> Sections { get; set; }
+
+        protected override void OnConfiguring(DbContextOptionsBuilder optionsBuilder)
+        {
+
+        }
+
         public DbSet<Course> Courses { get; set; }
-        public DbSet<Module> Modules { get; set; }
         public DbSet<Lesson> Lessons { get; set; }
     }
 }
